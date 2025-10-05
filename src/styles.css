@@ -14,4 +14,4 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .c-error { color: var(--error-color); }
 .c-gray { color: var(--gray-color); }
 
-.hover: hover{cursor: pointer; }
+.hover:hover{cursor: pointer; }

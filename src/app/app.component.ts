@@ -7,7 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  textRegisterUser = 'Cadastrar Usuarios';
-
-  title = 'crud-usuarios';
+   title = 'crud-usuarios';
 }
